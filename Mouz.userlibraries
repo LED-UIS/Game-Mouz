@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="opencv-249">
+    <archive path="C:/Users/fabriece/Downloads/opencv/build/java/opencv-249.jar" />
+  </library>
+</eclipse-userlibraries>
+
